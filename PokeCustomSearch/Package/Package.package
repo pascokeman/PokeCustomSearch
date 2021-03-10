@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" 
+        Id="cd187ff4-b8b6-4b8d-9192-6b0630414615" 
+        solutionId="cd187ff4-b8b6-4b8d-9192-6b0630414615" 
+        xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" 
+        name="PokeCustomSearch"
+        sharePointProductVersion="16.0">
+  <features>
+        <featureReference itemId="061c9060-25be-43a5-89d9-9cf81f1228ff" />
+  </features>
+</package>

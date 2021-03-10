@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <Module Name="Images">
+    <File Path="Images\AppIcon.png" Url="Images/AppIcon.png" ReplaceContent="TRUE" />
+    <File Path="Images\Close.png" Url="Images/Close.png" ReplaceContent="TRUE" />
+    <File Path="Images\AddinIcon.png" Url="Images/AddinIcon.png" ReplaceContent="TRUE" />
+    <File Path="Images\Button16x16.png" Url="Images/Button16x16.png" ReplaceContent="TRUE" />
+    <File Path="Images\Button32x32.png" Url="Images/Button32x32.png" ReplaceContent="TRUE" />
+    <File Path="Images\Button80x80.png" Url="Images/Button80x80.png" ReplaceContent="TRUE" />
+  </Module>
+</Elements>

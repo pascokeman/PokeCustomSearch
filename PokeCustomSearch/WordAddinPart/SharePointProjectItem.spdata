@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ProjectItem Type="Microsoft.VisualStudio.SharePoint.Module" DefaultFile="Elements.xml" SupportedTrustLevels="All" SupportedDeploymentScopes="Web, Site" xmlns="http://schemas.microsoft.com/VisualStudio/2010/SharePointTools/SharePointProjectItemModel">
+  <Files>
+    <ProjectItemFile Source="Elements.xml" Target="WordAddinPart\" Type="ElementManifest" />
+    <ProjectItemFile Source="Home.css" Target="WordAddinPart\" Type="ElementFile" />
+    <ProjectItemFile Source="Home.html" Target="WordAddinPart\" Type="ElementFile" />
+    <ProjectItemFile Source="Home.js" Target="WordAddinPart\" Type="ElementFile" />
+    <ProjectItemFile Source="Functions\FunctionFile.html" Target="WordAddinPart\Functions\" Type="ElementFile" />
+    <ProjectItemFile Source="Functions\FunctionFile.js" Target="WordAddinPart\Functions\" Type="ElementFile" />
+  </Files>
+</ProjectItem>

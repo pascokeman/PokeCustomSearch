@@ -1,0 +1,2 @@
+bin\Debug\OfficeAppManifests\WordAddinPartManifest.xml
+C:\Users\pascal.oke\source\repos\PokeCustomSearch\PokeCustomSearch\bin\Debug\PokeCustomSearch.debugapp

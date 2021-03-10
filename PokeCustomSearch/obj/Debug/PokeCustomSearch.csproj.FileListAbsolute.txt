@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\PokeCustomSearch\PokeCustomSearch\bin\Debug\PokeCustomSearch.pdb
+C:\Users\User\source\repos\PokeCustomSearch\PokeCustomSearch\obj\Debug\PokeCustomSearch.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\PokeCustomSearch\PokeCustomSearch\obj\Debug\PokeCustomSearch.dll
+C:\Users\User\source\repos\PokeCustomSearch\PokeCustomSearch\obj\Debug\PokeCustomSearch.pdb
+C:\Users\User\source\repos\PokeCustomSearch\PokeCustomSearch\obj\Debug\PokeCustomSearch.csprojAssemblyReference.cache
+C:\Users\pascal.oke\source\repos\PokeCustomSearch\PokeCustomSearch\bin\Debug\PokeCustomSearch.pdb
+C:\Users\pascal.oke\source\repos\PokeCustomSearch\PokeCustomSearch\obj\Debug\PokeCustomSearch.csproj.CoreCompileInputs.cache
+C:\Users\pascal.oke\source\repos\PokeCustomSearch\PokeCustomSearch\obj\Debug\PokeCustomSearch.dll
+C:\Users\pascal.oke\source\repos\PokeCustomSearch\PokeCustomSearch\obj\Debug\PokeCustomSearch.pdb
+C:\Users\pascal.oke\source\repos\PokeCustomSearch\PokeCustomSearch\obj\Debug\PokeCustomSearch.csprojAssemblyReference.cache

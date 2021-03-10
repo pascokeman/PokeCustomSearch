@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <Module Name="WordAddinPart">
+    <File Path="WordAddinPart\Home.css" Url="WordAddinPart/Home.css" ReplaceContent="TRUE" />
+    <File Path="WordAddinPart\Home.html" Url="WordAddinPart/Home.html" ReplaceContent="TRUE" />
+    <File Path="WordAddinPart\Home.js" Url="WordAddinPart/Home.js" ReplaceContent="TRUE" />
+    <File Path="WordAddinPart\Functions\FunctionFile.html" Url="WordAddinPart/Functions/FunctionFile.html" ReplaceContent="TRUE" />
+    <File Path="WordAddinPart\Functions\FunctionFile.js" Url="WordAddinPart/Functions/FunctionFile.js" ReplaceContent="TRUE" />
+  </Module>
+</Elements>

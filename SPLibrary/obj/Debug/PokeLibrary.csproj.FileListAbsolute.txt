@@ -1,0 +1,7 @@
+C:\Users\pascal.oke\source\repos\PokeCustomSearch\SPLibrary\bin\Debug\SPLibrary.dll.config
+C:\Users\pascal.oke\source\repos\PokeCustomSearch\SPLibrary\bin\Debug\SPLibrary.dll
+C:\Users\pascal.oke\source\repos\PokeCustomSearch\SPLibrary\bin\Debug\SPLibrary.pdb
+C:\Users\pascal.oke\source\repos\PokeCustomSearch\SPLibrary\obj\Debug\PokeLibrary.csprojAssemblyReference.cache
+C:\Users\pascal.oke\source\repos\PokeCustomSearch\SPLibrary\obj\Debug\PokeLibrary.csproj.CoreCompileInputs.cache
+C:\Users\pascal.oke\source\repos\PokeCustomSearch\SPLibrary\obj\Debug\SPLibrary.dll
+C:\Users\pascal.oke\source\repos\PokeCustomSearch\SPLibrary\obj\Debug\SPLibrary.pdb

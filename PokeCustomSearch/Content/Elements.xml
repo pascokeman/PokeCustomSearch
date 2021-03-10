@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <Module Name="Content">
+    <File Path="Content\App.css" Url="Content/App.css" ReplaceContent="TRUE" />
+    <File Path="Content\OfficeThemes.css" Url="Content/OfficeThemes.css" ReplaceContent="TRUE" />
+    <File Path="Content\sass\_Wrapper.scss" Url="Content/sass/_Wrapper.scss" ReplaceContent="TRUE" />
+    <File Path="Content\sass\_Utility.scss" Url="Content/sass/_Utility.scss" ReplaceContent="TRUE" />
+    <File Path="Content\sass\_Responsive.scss" Url="Content/sass/_Responsive.scss" ReplaceContent="TRUE" />
+    <File Path="Content\sass\_References.scss" Url="Content/sass/_References.scss" ReplaceContent="TRUE" />
+    <File Path="Content\sass\_Icon.scss" Url="Content/sass/_Icon.scss" ReplaceContent="TRUE" />
+    <File Path="Content\sass\_Icon.Definitions.scss" Url="Content/sass/_Icon.Definitions.scss" ReplaceContent="TRUE" />
+    <File Path="Content\sass\_Grid.scss" Url="Content/sass/_Grid.scss" ReplaceContent="TRUE" />
+    <File Path="Content\sass\_Font.scss" Url="Content/sass/_Font.scss" ReplaceContent="TRUE" />
+    <File Path="Content\sass\_Font.Definitions.scss" Url="Content/sass/_Font.Definitions.scss" ReplaceContent="TRUE" />
+    <File Path="Content\sass\_Color.scss" Url="Content/sass/_Color.scss" ReplaceContent="TRUE" />
+    <File Path="Content\sass\_BrandIcon.scss" Url="Content/sass/_BrandIcon.scss" ReplaceContent="TRUE" />
+    <File Path="Content\sass\_Animation.scss" Url="Content/sass/_Animation.scss" ReplaceContent="TRUE" />
+    <File Path="Content\sass\variables\_ZIndex.Variables.scss" Url="Content/sass/variables/_ZIndex.Variables.scss" ReplaceContent="TRUE" />
+    <File Path="Content\sass\variables\_Responsive.Variables.scss" Url="Content/sass/variables/_Responsive.Variables.scss" ReplaceContent="TRUE" />
+    <File Path="Content\sass\variables\_Icon.Variables.scss" Url="Content/sass/variables/_Icon.Variables.scss" ReplaceContent="TRUE" />
+    <File Path="Content\sass\variables\_General.Variables.scss" Url="Content/sass/variables/_General.Variables.scss" ReplaceContent="TRUE" />
+    <File Path="Content\sass\variables\_Font.Variables.scss" Url="Content/sass/variables/_Font.Variables.scss" ReplaceContent="TRUE" />
+    <File Path="Content\sass\variables\_Color.Variables.scss" Url="Content/sass/variables/_Color.Variables.scss" ReplaceContent="TRUE" />
+    <File Path="Content\sass\variables\_BrandIcon.Variables.scss" Url="Content/sass/variables/_BrandIcon.Variables.scss" ReplaceContent="TRUE" />
+    <File Path="Content\sass\variables\_Animation.Variables.scss" Url="Content/sass/variables/_Animation.Variables.scss" ReplaceContent="TRUE" />
+    <File Path="Content\sass\mixins\_ScopedStyles.Mixins.scss" Url="Content/sass/mixins/_ScopedStyles.Mixins.scss" ReplaceContent="TRUE" />
+    <File Path="Content\sass\mixins\_Responsive.Mixins.scss" Url="Content/sass/mixins/_Responsive.Mixins.scss" ReplaceContent="TRUE" />
+    <File Path="Content\sass\mixins\_Icon.Mixins.scss" Url="Content/sass/mixins/_Icon.Mixins.scss" ReplaceContent="TRUE" />
+    <File Path="Content\sass\mixins\_Grid.Mixins.scss" Url="Content/sass/mixins/_Grid.Mixins.scss" ReplaceContent="TRUE" />
+    <File Path="Content\sass\mixins\_General.Mixins.scss" Url="Content/sass/mixins/_General.Mixins.scss" ReplaceContent="TRUE" />
+    <File Path="Content\sass\mixins\_Font.Mixins.scss" Url="Content/sass/mixins/_Font.Mixins.scss" ReplaceContent="TRUE" />
+    <File Path="Content\sass\mixins\_Directionality.Mixins.scss" Url="Content/sass/mixins/_Directionality.Mixins.scss" ReplaceContent="TRUE" />
+    <File Path="Content\sass\mixins\_Color.Mixins.scss" Url="Content/sass/mixins/_Color.Mixins.scss" ReplaceContent="TRUE" />
+    <File Path="Content\sass\mixins\_BrandIcon.Mixins.scss" Url="Content/sass/mixins/_BrandIcon.Mixins.scss" ReplaceContent="TRUE" />
+    <File Path="Content\sass\mixins\_Animation.Mixins.scss" Url="Content/sass/mixins/_Animation.Mixins.scss" ReplaceContent="TRUE" />
+    <File Path="Content\sass\Fabric.scss" Url="Content/sass/Fabric.scss" ReplaceContent="TRUE" />
+    <File Path="Content\sass\Fabric.Scoped.scss" Url="Content/sass/Fabric.Scoped.scss" ReplaceContent="TRUE" />
+    <File Path="Content\fabric.min.css" Url="Content/fabric.min.css" ReplaceContent="TRUE" />
+    <File Path="Content\fabric.css" Url="Content/fabric.css" ReplaceContent="TRUE" />
+    <File Path="Content\fabric-9.6.0.scoped.min.css" Url="Content/fabric-9.6.0.scoped.min.css" ReplaceContent="TRUE" />
+    <File Path="Content\fabric-9.6.0.scoped.css" Url="Content/fabric-9.6.0.scoped.css" ReplaceContent="TRUE" />
+    <File Path="Content\Button.css" Url="Content/Button.css" ReplaceContent="TRUE" />
+    <File Path="Content\MessageBanner.css" Url="Content/MessageBanner.css" ReplaceContent="TRUE" />
+  </Module>
+</Elements>
